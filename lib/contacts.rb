@@ -14,4 +14,4 @@ require 'pry'
      }
    }
   
-remove_strawberry
+def remove_strawberry
